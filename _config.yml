@@ -1,11 +1,11 @@
 # Site settings
 author: Alan Young
-title: 
+title: Alan's Software Engineering Blog
 header-img: img/home-bg.png
 email: alanryoung01@gmail.com
 copyright_name: Alan Young
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software Engineering Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  alanryoung01
